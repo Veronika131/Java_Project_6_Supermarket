@@ -1,0 +1,9 @@
+add kiwi
+add mango
+add pineapple
+buy carrot
+buy mashroom
+buy cheese
+buy ham
+add lettuce
+add avocado

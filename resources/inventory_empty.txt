@@ -1,0 +1,6 @@
+buy soup
+buy apples
+buy milk
+buy bread
+buy pear
+buy apples
